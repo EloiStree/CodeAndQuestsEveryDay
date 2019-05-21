@@ -1,4 +1,4 @@
-# Code and Quests every day
+# Code and Quests everyday
 
 Welcome to code and quests.   
 Find here my adventure since the Oculus Quest release.   
