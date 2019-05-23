@@ -11,12 +11,12 @@ If you have any questions on the subject.
 Feel free to ask them here:     
 https://codeandquests.page.link/question
 
-Find the wiki here:   
+Find the wiki here:     
 https://codeandquests.page.link/wiki
 
-Talk to us here:
+Talk to us here:  
 https://codeandquests.page.link/discord
 
 
-Support my work: 
+Support my work:   
 http://eloistree.com
