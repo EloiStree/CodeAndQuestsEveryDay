@@ -5,7 +5,7 @@ My goal is to do at least 1H of code for Oculus Quest everyday.
 
 ## Link:    
 ![Modo](https://github.com/EloiStree/CodeAndQuestsEveryday/blob/master/Modo/EloiStreeModoFooter.png?raw=true)   
-http://eloistree.com  
+
 
 If you have any questions on the subject.   
 Feel free to ask them here:     
