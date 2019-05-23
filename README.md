@@ -9,10 +9,14 @@ My goal is to do at least 1H of code for Oculus Quest everyday.
 
 If you have any questions on the subject.   
 Feel free to ask them here:     
-https://github.com/EloiStree/CodeAndQuestsEveryday/issues    
+https://codeandquests.page.link/question
 
 Find the wiki here:   
-https://github.com/EloiStree/CodeAndQuestsEveryday/wiki
+https://codeandquests.page.link/wiki
 
-Download the application here:   
-http://eloistree.com   
+Talk to us here:
+https://codeandquests.page.link/discord
+
+
+Support my work: 
+http://eloistree.com
