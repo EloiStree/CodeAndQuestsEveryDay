@@ -14,6 +14,9 @@ https://codeandquests.page.link/question
 Find the wiki here:     
 https://codeandquests.page.link/wiki
 
+Find what I am working on (in a daily way)
+https://codeandquests.page.link/dailylog
+
 Talk to us here:  
 https://codeandquests.page.link/discord
 
