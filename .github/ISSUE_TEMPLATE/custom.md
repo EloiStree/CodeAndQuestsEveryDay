@@ -1,18 +1,18 @@
 ---
 name: Custom issue template
 about: Daily Log of every day works
-title: ''
+title: 'Daily Log Y'
 labels: DailyLog
 assignees: EloiStree
 
 ---
-
-# Objective
+# Daily Log 71 2019_08_13
+### Objective
 - [ ] Main
 - [ ] Secondary
 - [ ] Secondary
 
-## Done
+### Done
 - None
-## Learn
+### Learn
 - None
