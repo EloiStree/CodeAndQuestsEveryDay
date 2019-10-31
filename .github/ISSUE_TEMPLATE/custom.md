@@ -6,13 +6,13 @@ labels: DailyLog
 assignees: EloiStree
 
 ---
-# Daily Log 71 2019_08_13
-### Objective
+# Daily Log Y, YYYY_MM_DD
+## Objective
 - [ ] Main
 - [ ] Secondary
 - [ ] Secondary
 
-### Done
+## Done
 - None
-### Learn
+## Learn
 - None
