@@ -1,12 +1,12 @@
 ---
-name: Custom issue template
+name: Submit a Daily Log
 about: Daily Log of every day works
 title: 'Daily Log Y'
 labels: DailyLog
 assignees: EloiStree
 
 ---
-# Daily Log Y, YYYY_MM_DD
+*Please us this title: Daily Log Y, YYYY_MM_DD*
 ## Objective
 - [ ] Main
 - [ ] Secondary
