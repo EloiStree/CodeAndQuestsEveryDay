@@ -1,12 +1,12 @@
 ---
 name: Submit a Daily Log
 about: Daily Log of every day works
-title: 'Daily Log Y'
+title: 'Daily Log Y, YYYY_MM_DD'
 labels: DailyLog
 assignees: EloiStree
 
 ---
-*Please us this title: Daily Log Y, YYYY_MM_DD*
+
 ## Objective
 - [ ] Main
 - [ ] Secondary
