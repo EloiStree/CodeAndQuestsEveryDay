@@ -1,3 +1,10 @@
+### Before we start 😊
+I put all my heart on that free & open source project.    
+Don't hesitate to offert me a ☕ or a  🍺 in appreciation.    
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E21QCY5)  
+_________________________________________
+
+
 # Code and Quests everyday 
 
 ![Modo](https://github.com/EloiStree/CodeAndQuestsEveryday/blob/master/Modo/EloiStreeModoFooter.png?raw=true)  
@@ -21,5 +28,3 @@ Talk to us here:
 https://codeandquests.page.link/discord
 
 
-Support my work:   
-http://eloistree.com
