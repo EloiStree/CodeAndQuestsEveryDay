@@ -4,10 +4,23 @@ Don't hesitate to offert me a ☕ or a  🍺 in appreciation.
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E21QCY5)  
 _________________________________________
 
+# Quest 3 & Lynx R1
+
+My hearth go to Lynx R1 but the reality of the market is on the Quest 3.
+As the Quest 3 is out and the Lynx is arriving, I am restarting to work on the topic.
+
+I will re-use what I wrote here years ago to build some new workshops.
+You can find them here:  
+- https://github.com/EloiStree/HelloLynxR1
+- https://github.com/EloiStree/HelloQuest3XR
+- https://github.com/EloiStree/HelloAndroidXR
+
+
+
 
 # Code and Quests everyday 
 
-![Modo](https://github.com/EloiStree/CodeAndQuestsEveryday/blob/master/Modo/EloiStreeModoFooter.png?raw=true)  
+![Motto](https://github.com/EloiStree/CodeAndQuestsEveryday/blob/master/Modo/EloiStreeModoFooter.png?raw=true)  
 
 Welcome to code and quests.   
 Find here my adventure since the Oculus Quest release.   
